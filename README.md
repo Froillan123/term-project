@@ -1,2 +1,2 @@
 # term-project
- This is for prelim term project
+ This is for mid term project
