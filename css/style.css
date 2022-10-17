@@ -88,6 +88,7 @@
     font-size: 18px;
 }
 /*Ads-Section*/
+/*Article*/
 .container1{
     display: flex;
     justify-content: center;
@@ -136,6 +137,7 @@
     transform: scale(1.1);
 }
 /*Products that we are selling*/
+/*Main Section*/
 .text{
     align-items: center;
     justify-content: center;
@@ -287,18 +289,6 @@
 }
 .image7{
     background-image: url('../img/product4.jpg')
-}
-.image8{
-    background-image: url('../img/product5.jpg')
-}
-.image9{
-    background-image: url('../img/product6.jpg')
-}
-.image10{
-    background-image: url('../img/product7.jpg')
-}
-.image11{
-    background-image: url('../img/product8.jpg')
 }
 .child p{
     padding: 10px;
